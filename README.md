@@ -1,52 +1,63 @@
 ## Hi there 👋  
 
-Welcome to my GitHub profile! I'm **Venkat Srinivasa Raghavan**, an aspiring **Software Development Engineer (SDE)** and **Data Scientist** passionate about solving real-world problems with innovative solutions. Here’s a bit about me:  
+Welcome to my GitHub profile! I'm **Venkat Srinivasa Raghavan**, an aspiring **Software Development Engineer (SDE)** and **Data Scientist**, passionate about leveraging technology to solve real-world problems. Here's a snapshot of who I am and what I do:  
 
 ---
 
 ### 🔭 **What I’m Working On**  
-- **CodeQuest**: A dynamic coding practice platform designed to enhance developer skills through real-time problem-solving and automated evaluation. Built with **Java microservices**, **PostgreSQL**, **React**, and **TailwindCSS**, this project focuses on scalability, performance, and seamless user experience.  
-- **CodeSage**: A project nearing completion, aimed at automating code reviews using **LLMs (Large Language Models)** like GPT and Mistral. Integrated into CI/CD pipelines, it provides real-time, actionable feedback during the development process. Built with **Python**, it incorporates advanced optimization techniques like **quantization** for efficiency.
+
+#### 🌟 **CodeSage** *(Completed & Highlight Project)*  
+- An advanced tool that automates code reviews using **LLMs (Large Language Models)** like GPT and Mistral, seamlessly integrated into CI/CD pipelines.  
+- Provides **real-time, actionable feedback** to developers, enhancing code quality and development efficiency.  
+- Engineered in **Python**, with optimization techniques like **quantization** to ensure both accuracy and performance.  
+- **Impact**: Streamlined the development cycle by reducing manual code reviews and improving delivery timelines for multiple teams.  
+
+#### 🚀 **CodeQuest** *(In Progress)*  
+- A dynamic coding practice platform built to elevate developer skills through real-time problem-solving and automated evaluations.  
+- Features include:
+  - Built with **Java microservices**, **PostgreSQL**, **React**, and **TailwindCSS** for a modern, scalable, and efficient user experience.  
+  - A focus on seamless performance, intuitive design, and real-time feedback.  
+- **Goal**: Empower developers to improve their skills and prepare for competitive coding challenges.  
 
 ---
 
 ### 💻 **What I Bring to the Table**  
 
-#### **As a Software Development Engineer (SDE)**  
-- A strong foundation in **algorithms** and **data structures**, honed through competitive programming, where I achieved a **top 800 rank** in a global coding competition with over 25,000 participants.  
-- Deep expertise in **backend development**:
-  - Designed scalable systems using **microservices architectures**.
-  - Built event-driven applications, such as a **real-time chess game** using **.NET** and **SignalR**, with features like secure matchmaking and game-state synchronization.  
-- Proficient in **multiple programming languages**, including **Python**, **Java**, **C#**, **C++**, and **JavaScript**, enabling me to work flexibly across tech stacks.  
-- A consistent focus on improving system efficiency, such as reducing a **190-hour data pipeline runtime to just 18 hours** by leveraging **asynchronous programming** and **prioritization techniques with heaps**.
+#### **Software Development Expertise**  
+- Proven skills in **backend development** and **distributed systems**:
+  - Designed **scalable systems** using **microservices architectures** with **event-driven designs**.  
+  - Developed a **real-time chess application** in **.NET** and **SignalR**, featuring secure matchmaking and game-state synchronization.  
+- **Algorithm Mastery**: Ranked **Top 800 globally** in a coding competition with over 25,000 participants.  
+- Strong **optimization focus**, including:
+  - Reducing a **190-hour data pipeline runtime to just 18 hours** using **asynchronous programming** and **prioritization techniques**.  
+- Proficiency across multiple languages: **Python**, **Java**, **C#**, **C++**, and **JavaScript**, ensuring flexibility in tackling diverse tech challenges.
 
-#### **As a Data Scientist**  
-- Skilled in applying **machine learning** to solve complex problems:
-  - Built time-series anomaly detection models to improve data reliability by 75%.
-  - Designed and deployed a **GPT-powered RAG (Retrieval Augmented Generation)** system for large-scale document processing.  
-- Experienced in working with **ETL pipelines**, **big data tools**, and **cloud technologies** like **AWS**, **Snowflake**, and **Docker** to ensure data integrity and scalability.  
-- Adept at integrating **LLMs** into backend workflows, as demonstrated by my work on **CodeSage**.
+#### **Data Science Impact**  
+- Built **time-series anomaly detection models**, improving data reliability by 75%.  
+- Deployed **GPT-powered RAG (Retrieval Augmented Generation)** systems for efficient large-scale document processing.  
+- Designed and implemented **ETL pipelines** and scalable workflows using **AWS**, **Docker**, and **Snowflake**.  
+- Integrated **LLMs** into real-world applications, including backend workflows for **CodeSage**.  
 
 ---
 
 ### 🌱 **What I’m Learning**  
-I’m currently diving deeper into **distributed systems** with a focus on:
-- **Event-driven architectures**.  
-- **Real-time communications** with tools like **SignalR**.  
-- Advanced **microservices design patterns**.  
-- **Cloud-native technologies**, including **Kubernetes**, **Docker**, and **AWS**.  
+Continuously expanding my expertise in:  
+- **Event-driven architectures** and **real-time communications** with tools like **SignalR**.  
+- Advanced **microservices design patterns** and **distributed systems**.  
+- Cloud-native technologies: **Kubernetes**, **Docker**, and **AWS**.  
 
 ---
 
-### 💪 **Competitive Programming and Algorithm Strength**  
-I’ve developed a strong foundation in algorithms through competitive programming on platforms like **LeetCode**, where I’ve solved **1,500+ problems** across a wide range of topics. This experience has sharpened my problem-solving skills and taught me to approach challenges systematically and efficiently.
+### 💪 **Competitive Programming Excellence**  
+- Solved **1,500+ LeetCode problems**, demonstrating proficiency across various algorithmic topics.  
+- Strength in **data structures**, **dynamic programming**, and **system design**, honed through competitive programming.  
 
 ---
 
 ### 💬 **Ask Me About**  
-- Optimizing real-world applications using distributed systems.  
-- Using LLMs for solving coding challenges and automating workflows.  
-- Scalable backend development with microservices.  
+- Optimizing applications with **distributed systems**.  
+- Using **LLMs** for automating workflows and solving challenges.  
+- Developing scalable backends with **microservices architectures**.  
 
 ---
 
@@ -56,8 +67,8 @@ I’ve developed a strong foundation in algorithms through competitive programmi
 ---
 
 ### 😄 **Fun Fact**  
-I am a **three-time National Collegiate Badminton Champion**, a title I am incredibly proud of and one that reflects my persistence and drive in everything I do!  
+I’m a **three-time National Collegiate Badminton Champion**, showcasing my drive, discipline, and commitment to excellence both on and off the court!  
 
 ---
 
-Thank you for stopping by! Feel free to explore my projects and reach out for collaboration or discussion. I’m always excited to connect with like-minded engineers and developers.
+Thank you for visiting! Feel free to explore my projects or reach out for collaboration—I’m excited to connect and discuss opportunities to innovate and build impactful solutions.  
